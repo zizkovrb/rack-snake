@@ -1,4 +1,4 @@
-# Rack::Snake
+# Rack::Snake [![Build Status](https://travis-ci.org/zizkovrb/rack-snake.png?branch=master)](https://travis-ci.org/zizkovrb/rack-snake)
 
 Snakeize camelCase hash params
 
